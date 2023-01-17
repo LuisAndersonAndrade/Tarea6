@@ -1,4 +1,7 @@
 # Tarea6
+
+![image](https://user-images.githubusercontent.com/117800753/212784025-a17d8140-81bb-447f-9f25-fe00025215f1.png)
+
 Fecha: 16/01/2023
 
 Estudiante: Luis Anderson Andrade Diaz
